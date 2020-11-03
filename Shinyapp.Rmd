@@ -1,0 +1,22 @@
+---
+title: "Dev-Data-Prod-Week4"
+author: "G S Mounik"
+date: "11/3/2020"
+output: html_document
+---
+
+
+This assignment will draw a comparison using several variables between  MPG and using mtcars dataset.  This file is to produce a HTML document for the presentation as part of the Week-4 assignment.
+
+- 
+
+```{r}
+library(datasets)
+head(mtcars)
+```
+---
+
+Shiny_apps website_link: (https://mounik.shinyapps.io/Mounik/)
+
+Multiple files(ui.R & server.R) for the above shiny_app are uploaded in the below repository: 
+(https://github.com/Mounik1707/Dev-data-prod-week4)
